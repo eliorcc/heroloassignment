@@ -1,1 +1,1 @@
-web: gunicorn MessagingSystem.wsgi --log-file -
+python manage.py runserver
